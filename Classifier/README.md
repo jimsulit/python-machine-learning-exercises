@@ -19,7 +19,7 @@
 <li> Make sure that Python is installed and the path is properly configured. </li>
 <li> Install the dependency using Conda package manager i,e open your command propmt and type in conda install scikit-learn. </li>
 <li> Install the Git desktop client. </li>
-<li> Clone the repository: git clone https://github.com/jimsonsulit/python-machine-learning-exercises/tree/master/Classifier </li>
+<li> Clone the repository: git clone https://github.com/jimsonsulit/python-machine-learning-exercises</li>
 <li> Navigate to the directory where you can find the Python file. </li>
 
 
