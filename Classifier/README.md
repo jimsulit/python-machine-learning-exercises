@@ -75,11 +75,13 @@ or ``conda``::
 The documentation includes more detailed `installation instructions <http://scikit-learn.org/stable/install.html>`_.
 
 
+
 Setting up a development environment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Quick tutorial on how to go about setting up your environment to
 contribute to scikit-learn: https://github.com/scikit-learn/scikit-learn/blob/master/CONTRIBUTING.md
+
 
 
 Citation
