@@ -1,4 +1,4 @@
-# Gender-Classifier-Machine-Learning-model-in-sklearn
+# Gender-Classifier-Model-in-scikit-learn
 
 ## Basic Info
 <p> A simple machine learning model that uses the scikit-learn machine learning library to train a decision tree on a small dataset relating to height, weight and shoe sizes of male and female and then predicting gender based on a set of body metrics. </p>
@@ -21,7 +21,6 @@
 <li> Install the Git desktop client. </li>
 <li> Clone the repository: git clone https://github.com/jimsonsulit/python-machine-learning-exercises</li>
 <li> Navigate to the directory where you can find the Python file. </li>
-
 
 
 
@@ -75,29 +74,6 @@ or ``conda``::
 
 The documentation includes more detailed `installation instructions <http://scikit-learn.org/stable/install.html>`_.
 
-
-Development
------------
-
-We welcome new contributors of all experience levels. The scikit-learn
-community goals are to be helpful, welcoming, and effective. The
-`Development Guide <http://scikit-learn.org/stable/developers/index.html>`_
-has detailed information about contributing code, documentation, tests, and
-more. We've included some basic information in this README.
-
-Important links
-~~~~~~~~~~~~~~~
-
-- Official source code repo: https://github.com/scikit-learn/scikit-learn
-- Download releases: https://pypi.python.org/pypi/scikit-learn
-- Issue tracker: https://github.com/scikit-learn/scikit-learn/issues
-
-Source code
-~~~~~~~~~~~
-
-You can check the latest sources with the command::
-
-    git clone https://github.com/scikit-learn/scikit-learn.git
 
 Setting up a development environment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
